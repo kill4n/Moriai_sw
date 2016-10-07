@@ -21,5 +21,9 @@ Format32bit       |  4
 
 Bytes protocol  
 (works for all format of numbers 8-16-32)  
-(#byte)       Description  
-1           Funcion  
+(# bytes) |      Description  
+---|---
+1       |   Funcion  
+1       |   Format
+N       |   Number of data
+N*F     |   Data stream
