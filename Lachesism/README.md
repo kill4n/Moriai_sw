@@ -21,7 +21,9 @@ Format32bit       |  4
 
 Bytes protocol  
 (works for all format of numbers 8-16-32)  
-(# bytes) |      Description  
+
+
+(# bytes)   |      Description  
 ---|---
 1       |   Funcion  
 1       |   Format
