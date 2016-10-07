@@ -1,6 +1,3 @@
 # Lachesism
 
-This is the middle sister dedicated to mid level devices (microProcessors 32bit) a folder for each:
-- Raspberry pi
-    - Python
-    - C++
+This is the middle sister dedicated To explain the protocol and document the evolution of the proyect.

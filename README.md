@@ -6,10 +6,10 @@
 This is an attempt to create a multihardware set of libraries to comunicate devices 
 
 ## Clotho
-- Low level devices (microcontrollers 8-16 bits)
+- Low level devices
 
 ## Lachesism
-- Mid level devices (microprocessors 32 bits)
+- Dedicated To explain the protocol and document the evolution of the proyect
 
 ## Atropos
-- High level devices (processors 32-64 bits)
+- High level devices 
