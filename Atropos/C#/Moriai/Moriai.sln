@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoriaiLib", "MoriaiLib\MoriaiLib.csproj", "{F22E798F-651D-454F-BD49-C018B35D7B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moriai_Test", "Moriai_Test\Moriai_Test.csproj", "{5F545632-5F1E-4252-8D54-2518F3D192D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22E798F-651D-454F-BD49-C018B35D7B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22E798F-651D-454F-BD49-C018B35D7B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22E798F-651D-454F-BD49-C018B35D7B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22E798F-651D-454F-BD49-C018B35D7B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F545632-5F1E-4252-8D54-2518F3D192D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F545632-5F1E-4252-8D54-2518F3D192D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F545632-5F1E-4252-8D54-2518F3D192D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F545632-5F1E-4252-8D54-2518F3D192D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
