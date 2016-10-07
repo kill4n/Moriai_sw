@@ -11,14 +11,15 @@ ReadOne  = 0x03
 ReadMany = 0x04  
 
 ### Format of numbers
-Name            # of bytes  
-Format8bit          1  
-Format16bit         2  
-Format32bit         4  
+Name          |  # of bytes  
+---|---
+Format8bit        |  1  
+Format16bit       |  2  
+Format32bit       |  4  
 
 ### protocol
 
 Bytes protocol  
 (works for all format of numbers 8-16-32)  
-#byte       Description  
+(#byte)       Description  
 1           Funcion  
